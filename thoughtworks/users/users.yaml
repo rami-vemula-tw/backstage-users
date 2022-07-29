@@ -14,8 +14,8 @@ kind: User
 metadata:
   name: rami-vemula-tw
   profile:
-    displayName: rami vemula
-    email: ramve@thoughtworks.com
+    displayName: rami-vemula-tw
+    email: rami.vemula@thoughtworks.com
     picture: 
 spec:
   memberOf: [thoughtworks, awesome-project]
